@@ -155,6 +155,32 @@ Python • PyTorch • Transformers • TrOCR • BART • NLP
 * System Design
 
 ---
+# 🚀 Additional Projects
+
+### 🌦️ Weather App
+
+* Developed a responsive weather forecasting application using weather APIs.
+* Displays real-time weather conditions, temperature, humidity, wind speed, and forecasts.
+* Built with JavaScript, HTML, CSS, and REST APIs.
+
+### 🛒 Amazon Clone
+
+* Built an e-commerce platform inspired by Amazon.
+* Implemented product listings, shopping cart functionality, and responsive UI.
+* Strengthened understanding of frontend architecture and user experience design.
+
+### ✈️ Wanderlust – Intelligent Travel Planning Platform
+
+* Developed a smart travel planning platform with itinerary generation and trip recommendations.
+* Integrated weather information, destination discovery, and route planning.
+* Built using React.js, Node.js, Express.js, MongoDB, Socket.IO, Redis, and Google Maps API.
+
+### 🐉 JavaScript Dragon Game
+
+* Created an interactive browser-based game using JavaScript.
+* Implemented character controls, game mechanics, scoring systems, and animations.
+* Improved understanding of DOM manipulation and event-driven programming.
+
 
 ### 📫 Connect With Me
 
@@ -162,4 +188,4 @@ Python • PyTorch • Transformers • TrOCR • BART • NLP
 * GitHub
 * Email
 
-Always open to collaborating on exciting projects, hackathons, and innovative ideas 🚀
+Always open to collaborating on exciting projects, hackathons, and innovative ideas 🚀 
