@@ -1,151 +1,102 @@
-# Hi there 👋 I'm Aditi Dixit
+<div align="center">
 
-🎓 Computer Science Engineering Student
-💻 Full-Stack Developer | AI & ML Enthusiast | Problem Solver
-🚀 Passionate about building scalable software, intelligent systems, and real-world applications.
+# Hey, I'm Aditi 👋
 
-## 🚀 About Me
-* 🌱 Currently exploring System Design, Distributed Systems, AI/ML, and Cloud Technologies
-* 🔭 Building full-stack and AI-powered applications
-* 💡 Interested in Real-Time Collaboration Systems, Computer Vision, OCR, and Intelligent Automation
-* 🎯 Focused on Software Engineering, Backend Development, and Product Building
-* ⚡ Love participating in hackathons and solving real-world problems through technology
-* 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Turning+ideas+into+working+products" alt="Typing SVG" />
 
-### Languages
-* Python
-* JavaScript
-* TypeScript
-* Java
-* SQL
+![Profile Views](https://komarev.com/ghpvc/?username=Aditidixit1234&label=Profile%20Views&color=6C63FF&style=for-the-badge&base=500)
 
-### Frontend
-* Next.js
-* React.js
-* Tailwind CSS
-* Framer Motion
+</div>
 
-### Backend
-* FastAPI
-* Node.js
-* Express.js
-* REST APIs
-* WebSockets
+---
 
-### Databases
-* PostgreSQL
-* MongoDB
-* Redis
+### 🌱 A bit about me
 
-### AI / ML
-* PyTorch
-* Transformers
-* TrOCR
-* EasyOCR
-* YOLOv8
-* OpenCV
+I'm a Computer Science student who likes taking messy, real-world problems and turning them into working software — whether that's spotting empty parking spots with computer vision, or helping teams collaborate in real time. I care more about *does it actually work* than *does it look impressive on paper*.
 
-### Cloud & Tools
-* AWS EC2
-* Firebase
-* Cloudinary
-* Git
-* GitHub
-* Docker
+Right now I'm deep into system design, distributed systems, and figuring out how to make AI genuinely useful rather than just flashy.
 
-# 🌟 Featured Projects
+---
 
-## 🚗 KIIT ParkEase – Smart Parking Management System
+### 🧰 What I build with
 
-Built an intelligent parking management platform using computer vision and real-time occupancy detection.
+<div align="center">
 
-### Highlights
-* YOLOv8-based vehicle detection
-* Real-time parking slot monitoring
-* Occupancy estimation and analytics
-* Interactive parking visualization
-* Cloud deployment using AWS EC2
-### Tech Stack
-Python • YOLOv8 • FastAPI • AWS • Leaflet.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🕵️ SpillIt – Anonymous Social Prediction Platform
+</div>
 
-A modern anonymous discussion and prediction platform designed to encourage honest participation and engagement.
+---
 
-### Highlights
-* Anonymous posting system
-* Prediction polls and voting
-* Reputation and trust scoring
-* Feed ranking algorithms
-* Moderation pipeline
-* Media upload support
-### Tech Stack
-Next.js • TypeScript • Tailwind CSS • Express.js • MongoDB • Firebase
+### 🚀 Projects I'm proud of
 
-## ⚡ PulseRoom – Real-Time Collaborative Workspace
+<table>
+<tr>
+<td width="50%">
 
-A collaborative productivity platform enabling teams to work together in real time.
+**🚗 KIIT ParkEase**
+Smart parking system that spots free spaces in real time using YOLOv8 and shows live availability on a map.
+`Python · YOLOv8 · FastAPI · AWS`
 
-### Highlights
-* Real-time collaboration
-* Shared rooms and workspaces
-* Kanban boards
-* Team presence indicators
-* Live activity tracking
-* Analytics dashboard
-* Role-based workspace management
-### Tech Stack
-Next.js • TypeScript • FastAPI • PostgreSQL • Redis • WebSockets
+</td>
+<td width="50%">
 
-## 📝 Handwriting OCR & Insights Pipeline
+**🕵️ SpillIt**
+Anonymous social platform where people can post and predict honestly, with reputation scoring to keep it real.
+`Next.js · TypeScript · MongoDB`
 
-An AI-powered document intelligence platform that converts handwritten text into structured digital information.
-### Highlights
-* Transformer-based handwriting recognition
-* TrOCR integration
-* SymSpell-based correction
-* BART summarization
-* Structured metadata extraction
-* Research framework for model fine-tuning
-### Tech Stack
-Python • PyTorch • Transformers • TrOCR • BART • NLP
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 📈 GitHub Stats
-* Full-Stack Development
-* AI & Machine Learning
-* Computer Vision
-* Real-Time Systems
-* Backend Engineering
-* System Design
+**⚡ PulseRoom**
+A live collaborative workspace with kanban boards and presence indicators, so teams feel like they're in the same room.
+`Next.js · PostgreSQL · Redis · WebSockets`
 
-# 🚀 Additional Projects
+</td>
+<td width="50%">
 
-### 🌦️ Weather App
-* Developed a responsive weather forecasting application using weather APIs.
-* Displays real-time weather conditions, temperature, humidity, wind speed, and forecasts.
-* Built with JavaScript, HTML, CSS, and REST APIs.
+**📝 Handwriting OCR Pipeline**
+Converts handwritten notes into clean, structured text using transformer-based OCR and summarization.
+`PyTorch · TrOCR · BART · NLP`
 
-### 🛒 Amazon Clone
-* Built an e-commerce platform inspired by Amazon.
-* Implemented product listings, shopping cart functionality, and responsive UI.
-* Strengthened understanding of frontend architecture and user experience design.
+</td>
+</tr>
+</table>
 
-### ✈️ Wanderlust – Intelligent Travel Planning Platform
-* Developed a smart travel planning platform with itinerary generation and trip recommendations.
-* Integrated weather information, destination discovery, and route planning.
-* Built using React.js, Node.js, Express.js, MongoDB, Socket.IO, Redis, and Google Maps API.
+---
 
-### 🐉 JavaScript Dragon Game
-* Created an interactive browser-based game using JavaScript.
-* Implemented character controls, game mechanics, scoring systems, and animations.
-* Improved understanding of DOM manipulation and event-driven programming.
+### 📊 My GitHub, in numbers
 
+<div align="center">
 
-### 📫 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=Aditidixit1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditidixit1234&theme=tokyonight&hide_border=true" width="48%" />
 
-* LinkedIn
-* GitHub
-* Email
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditidixit1234&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-Always open to collaborating on exciting projects, hackathons, and innovative ideas 🚀 
+</div>
+
+---
+
+### 📫 Let's talk
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+*Always up for a hackathon, a weird project idea, or a good technical debate.*
+
+</div>
