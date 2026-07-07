@@ -21,10 +21,10 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 ### 🏆 Achievements
 
 - 🎯 Advanced to **interview stage, Google Girl Hackathon 2025** and cleared national-level shortlisting in **Smart India Hackathon**, among 50,000+ teams
+-  🛒 Selected from **35,000+ teams in Round 1** to **Round 2 of Flipkart GRiD 2.0**, advancing among just **1,600 teams**(**Top 5%** of teams)
 - 🥈 Ranked in the **Top 25%** among 16,000+ participants — **Goldman Sachs India Hackathon 2026**
 - 🧩 **LeetCode** (1600+ rating) — solved 900+ DSA problems, active in weekly & biweekly contests
 - 🚀 Cleared multiple rounds in **Amazon HackOn 2025** and **Flipkart GRiD 7.0** among 1.5 lakh+ participants nationwide
-- 🛒 Selected from **35,000+ teams in Round 1** to **Round 2 of Flipkart GRiD 2.0**, advancing among just **1,600 teams** (**Top 5%** of teams)
 - ⭐ **4-Star coder on CodeChef** — placing among the **top 5–7%** of all CodeChef users
 - 🔵 **Pupil** rank on **Codeforces**
 
@@ -109,9 +109,18 @@ Real-time collaboration platform with live rooms, notifications, and Google OAut
 Anonymous social prediction platform with gamified polls and reputation scoring, handling 1,000+ anonymous submissions. Feed-ranking and moderation pipelines cut latency by **28%** across 10,000+ daily requests.
 `React.js · Node.js · Express.js · MongoDB · Prisma · Cloudinary`
 
-**📝 ScriptLens**
+**📝 ScripLens**
 AI-powered document intelligence platform converting handwritten text into structured digital information. Uses transformer-based handwriting recognition (TrOCR) with SymSpell-based correction and BART summarization to extract structured metadata.
 `Python · PyTorch · Transformers · TrOCR · BART · NLP`
+
+---
+
+### 🔧 A few more I've built
+
+- 🌦️ **Weather App** — responsive forecast app using live weather APIs
+- 🛒 **Amazon Clone** — e-commerce UI with product listings and cart functionality
+- ✈️ **Wanderlust** — travel planning platform with itinerary generation and Google Maps integration
+- 🐉 **JS Dragon Game** — browser game exploring DOM manipulation and animations
 
 ---
 
@@ -126,16 +135,17 @@ Built supervised ML models (Random Forest, Gradient Boosting, Ridge Regression) 
 
 **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar · 2023 – 2027
 B.Tech in Computer Science & Engineering 
+
 ---
 
 ### 📊 My GitHub, in numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditidixit1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Aditidixit1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Aditidixit1234&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditidixit1234&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aditidixit1234&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -150,7 +160,7 @@ B.Tech in Computer Science & Engineering
 
 ---
 
-### 📫 Let's talk
+### 📫 Let's Connect
 
 <div align="center">
 
