@@ -21,12 +21,12 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 ### 🏆 Achievements
 
 - 🎯 Advanced to **interview stage, Google Girl Hackathon 2025** and cleared national-level shortlisting in **Smart India Hackathon**, among 50,000+ teams
--  🛒 Selected from **35,000+ teams in Round 1** to **Round 2 of Flipkart GRiD 2.0**, advancing among just **1,600 teams** **Top 5%** of participants
+- - 🛒 Selected from **35,000+ teams in Round 1** to **Round 2 of Flipkart GRiD 2.0**, advancing among just **1,600 teams **Top 5%** of the teams **
 - 🥈 Ranked in the **Top 25%** among 16,000+ participants — **Goldman Sachs India Hackathon 2026**
-- 🧩 **LeetCode Knight** (1800+ rating) — solved 900+ DSA problems, active in weekly & biweekly contests
+- 🧩 **LeetCode** (1600+ rating) — solved 900+ DSA problems, active in weekly & biweekly contests
 - 🚀 Cleared multiple rounds in **Amazon HackOn 2025** and **Flipkart GRiD 7.0** among 1.5 lakh+ participants nationwide
-
-
+- ⭐ **4-Star coder on CodeChef** — placing among the **top 5–7%** of all CodeChef users
+- 🔵 **Pupil** rank on **Codeforces**
 
 ---
 
@@ -95,7 +95,7 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 
 ---
 
-### 🚀  MY PROJECTS
+### 🚀 MY PROJECTS
 
 **🚗 KIIT ParkEase** — *Selected for Faculty Research Publication, Feb 2026*
 Smart parking system engineered on AWS Lambda + S3 with a YOLOv8 event-driven pipeline (400+ annotated images, sub-200ms detection). Serves 150+ slots across 6+ locations with Redis caching, RBAC, and CloudWatch monitoring — cut dashboard load time by **40%**.
@@ -121,7 +121,7 @@ Built supervised ML models (Random Forest, Gradient Boosting, Ridge Regression) 
 ### 🎓 Education
 
 **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar · 2023 – 2027
-B.Tech in Computer Science & Engineering · 
+B.Tech in Computer Science & Engineering 
 
 ---
 
