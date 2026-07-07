@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Turning+ideas+into+working+products" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditidixit1234&label=Profile%20Views&color=6C63FF&style=for-the-badge&base=500)
+![Profile Views](https://tinyurl.com/2xbxchb6)
 
 </div>
 
@@ -95,7 +95,8 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 
 ---
 
-### 🚀 MY PROJECTS
+### 🚀 Projects I'm proud of
+
 **🚗 KIIT ParkEase** — *Selected for Faculty Research Publication, Feb 2026*
 Smart parking system engineered on AWS Lambda + S3 with a YOLOv8 event-driven pipeline (400+ annotated images, sub-200ms detection). Serves 150+ slots across 6+ locations with Redis caching, RBAC, and CloudWatch monitoring — cut dashboard load time by **40%**.
 `Python · YOLOv8 · FastAPI · AWS · Redis · Leaflet`
@@ -108,7 +109,7 @@ Real-time collaboration platform with live rooms, notifications, and Google OAut
 Anonymous social prediction platform with gamified polls and reputation scoring, handling 1,000+ anonymous submissions. Feed-ranking and moderation pipelines cut latency by **28%** across 10,000+ daily requests.
 `React.js · Node.js · Express.js · MongoDB · Prisma · Cloudinary`
 
-**📝 ScriptLens**
+**📝ScriptLens**
 AI-powered document intelligence platform converting handwritten text into structured digital information. Uses transformer-based handwriting recognition (TrOCR) with SymSpell-based correction and BART summarization to extract structured metadata.
 `Python · PyTorch · Transformers · TrOCR · BART · NLP`
 
