@@ -95,8 +95,7 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 
 ---
 
-### 🚀 Projects I'm proud of
-
+### 🚀 MY PROJECTS
 **🚗 KIIT ParkEase** — *Selected for Faculty Research Publication, Feb 2026*
 Smart parking system engineered on AWS Lambda + S3 with a YOLOv8 event-driven pipeline (400+ annotated images, sub-200ms detection). Serves 150+ slots across 6+ locations with Redis caching, RBAC, and CloudWatch monitoring — cut dashboard load time by **40%**.
 `Python · YOLOv8 · FastAPI · AWS · Redis · Leaflet`
@@ -109,7 +108,7 @@ Real-time collaboration platform with live rooms, notifications, and Google OAut
 Anonymous social prediction platform with gamified polls and reputation scoring, handling 1,000+ anonymous submissions. Feed-ranking and moderation pipelines cut latency by **28%** across 10,000+ daily requests.
 `React.js · Node.js · Express.js · MongoDB · Prisma · Cloudinary`
 
-**📝 ScripLens**
+**📝 ScriptLens**
 AI-powered document intelligence platform converting handwritten text into structured digital information. Uses transformer-based handwriting recognition (TrOCR) with SymSpell-based correction and BART summarization to extract structured metadata.
 `Python · PyTorch · Transformers · TrOCR · BART · NLP`
 
@@ -142,7 +141,7 @@ B.Tech in Computer Science & Engineering
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Aditidixit1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Aditidixit1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Aditidixit1234&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aditidixit1234&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
@@ -169,5 +168,9 @@ B.Tech in Computer Science & Engineering
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditidixit1234)
 
 *Always up for a hackathon, a weird project idea, or a good technical debate.*
+
+<br>
+
+**Thanks for stopping by! ✨** If something here caught your eye, drop a ⭐ on a repo or say hi — always happy to connect and talk shop.
 
 </div>
