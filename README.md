@@ -21,10 +21,10 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 ### 🏆 Achievements
 
 - 🎯 Advanced to **interview stage, Google Girl Hackathon 2025** and cleared national-level shortlisting in **Smart India Hackathon**, among 50,000+ teams
-- - 🛒 Selected from **35,000+ teams in Round 1** to **Round 2 of Flipkart GRiD 2.0**, advancing among just **1,600 teams **Top 5%** of the teams **
 - 🥈 Ranked in the **Top 25%** among 16,000+ participants — **Goldman Sachs India Hackathon 2026**
 - 🧩 **LeetCode** (1600+ rating) — solved 900+ DSA problems, active in weekly & biweekly contests
 - 🚀 Cleared multiple rounds in **Amazon HackOn 2025** and **Flipkart GRiD 7.0** among 1.5 lakh+ participants nationwide
+- 🛒 Selected from **35,000+ teams in Round 1** to **Round 2 of Flipkart GRiD 2.0**, advancing among just **1,600 teams** (**Top 5%** of teams)
 - ⭐ **4-Star coder on CodeChef** — placing among the **top 5–7%** of all CodeChef users
 - 🔵 **Pupil** rank on **Codeforces**
 
@@ -95,7 +95,7 @@ Currently a CS Engineering student at KIIT, Bhubaneswar (2023–2027), deep into
 
 ---
 
-### 🚀 MY PROJECTS
+### 🚀 Projects I'm proud of
 
 **🚗 KIIT ParkEase** — *Selected for Faculty Research Publication, Feb 2026*
 Smart parking system engineered on AWS Lambda + S3 with a YOLOv8 event-driven pipeline (400+ annotated images, sub-200ms detection). Serves 150+ slots across 6+ locations with Redis caching, RBAC, and CloudWatch monitoring — cut dashboard load time by **40%**.
@@ -108,6 +108,10 @@ Real-time collaboration platform with live rooms, notifications, and Google OAut
 **🕵️ SpillIt** — *Nov 2024 – Jan 2025*
 Anonymous social prediction platform with gamified polls and reputation scoring, handling 1,000+ anonymous submissions. Feed-ranking and moderation pipelines cut latency by **28%** across 10,000+ daily requests.
 `React.js · Node.js · Express.js · MongoDB · Prisma · Cloudinary`
+
+**📝 ScriptLens**
+AI-powered document intelligence platform converting handwritten text into structured digital information. Uses transformer-based handwriting recognition (TrOCR) with SymSpell-based correction and BART summarization to extract structured metadata.
+`Python · PyTorch · Transformers · TrOCR · BART · NLP`
 
 ---
 
@@ -122,7 +126,6 @@ Built supervised ML models (Random Forest, Gradient Boosting, Ridge Regression) 
 
 **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar · 2023 – 2027
 B.Tech in Computer Science & Engineering 
-
 ---
 
 ### 📊 My GitHub, in numbers
@@ -140,8 +143,8 @@ B.Tech in Computer Science & Engineering
 
 <div align="center">
 
-<img src="https://leetcode-stats-six.vercel.app/?username=R7HH05BuO6&theme=dark" width="48%" />
-<a href="https://www.codechef.com/users/smart_apes_84"><img src="https://cp-logo.vercel.app/codechef/smart_apes_84?logo=true" /></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-967_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/R7HH05BuO6/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★_%7C_Rating_1992-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/smart_apes_84)
 
 </div>
 
